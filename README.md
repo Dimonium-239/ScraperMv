@@ -17,6 +17,6 @@ One from [Alegro](https://allegro.pl/) and second from [OLX](https://www.olx.pl/
  
 ## Building
 Run this command in directory where pom.xml is
-'''
+```
 mvn install
-'''
+```
