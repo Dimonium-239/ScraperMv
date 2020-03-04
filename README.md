@@ -7,8 +7,8 @@ Program for scraping information from web pages\
 - Program have interfaces which helps to make scraper for differents web pages
 - Program saves data to database
 - This program is very flexibel for your needs
-- This version of program has implemented two scrapers. Both are for getting gramophone sales offers. 
-One from [Alegro](https://allegro.pl/) and second from [OLX](https://www.olx.pl/)
+- This version of program has implemented two scrapers. Both are for getting gramophone sales offers.\
+  One from [Alegro](https://allegro.pl/) and second from [OLX](https://www.olx.pl/)
 
 ## Built With
 * [Jsoup](https://jsoup.org/) - Java library for working with real-world HTML
