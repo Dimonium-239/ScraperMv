@@ -1,6 +1,6 @@
 # ScraperMV
 
-Program for scraping information from web pages
+Program for scraping information from web pages\
 *Inspired by [Scraper](https://github.com/Dimonium-239/Scraper)*
 
 ## About:
